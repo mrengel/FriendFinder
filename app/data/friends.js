@@ -1,0 +1,52 @@
+var friends = [
+  {
+    "name":"Francisco",
+    "photo":"http://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32129.png&w=350&h=254",
+    "scores":[
+      2,
+      5,
+      4,
+      4,
+      4,
+      2,
+      5,
+      3,
+      2,
+      3
+        ]
+  },
+  {
+  "name":"Tom",
+  "photo":"https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cg_face%2Ch_300%2Cq_80%2Cw_300/MTE5NDg0MDU0OTM2NTg1NzQz/tom-cruise-9262645-1-402.jpg",
+  "scores":[
+     5,
+     4,
+     5,
+     2,
+     4,
+     4,
+     5,
+     3,
+     4,
+     2
+      ]
+},
+{
+  "name":"Emma",
+  "photo":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3ODE2NTMxMV5BMl5BanBnXkFtZTgwOTIzOTQzMjE@._V1_UY317_CR21,0,214,317_AL_.jpg",
+  "scores":[
+     3,
+     4,
+     3,
+     4,
+     2,
+     2,
+     4,
+     4,
+     3,
+     4
+      ]
+}
+]
+
+module.exports = friends;
